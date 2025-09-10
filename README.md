@@ -14,7 +14,8 @@ This repository contains my Jupyter Notebook submission for **ECE 2112: Advanced
 ├─ Lucas_Pandas-P1.py      # Python script with Problem 1 solution
 ├─ Lucas_Pandas-P2.ipynb   # Jupyter notebook with Problem 2 solution
 ├─ Lucas_Pandas-P2.py      # Python script with Problem 2 solution
-└─ README.md               # You're here
+├─ README.md               # You're here
+└─ cars.csv                # Dataset used in the project
 ```
 
 ---
